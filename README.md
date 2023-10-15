@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> Ruoxi Wang
+<<<<<<< Updated upstream
 Computer Science
 graduation date: 2027 4
+=======
+Major: Computer Science
+Graduation date: 2027
+>>>>>>> Stashed changes
