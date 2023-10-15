@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Ruoxi Wang
 Computer Science
-graduation date: 2027
+graduation date: 2027 4
